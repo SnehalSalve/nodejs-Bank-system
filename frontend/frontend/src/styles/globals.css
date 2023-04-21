@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dashboard_tab {
+  width: 100%;
+  padding: 0px 50px 0px 50px;
+}
+
+.user_data {
+  padding-left: 50px;
+}
